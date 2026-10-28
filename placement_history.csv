@@ -1,0 +1,11 @@
+timestamp,pod_name,selected_node,cpu_request,memory_request,strategy,status
+2026-10-25T09:25:49.253400+00:00,csv-test-092549,placement-demo-worker2,100m,128Mi,Best Fit,Created
+2026-10-25T10:34:42.746690+00:00,ml-test-103442,placement-demo-worker,100m,128Mi,Best Fit,Created
+2026-10-25T10:34:44.826011+00:00,ml-test-103444,placement-demo-worker2,100m,128Mi,Best Fit,Created
+2026-10-25T10:37:18.519405+00:00,ml-verify-103718,placement-demo-worker,100m,128Mi,ML Ranker,Created
+2026-10-25T10:37:19.873815+00:00,ml-verify-103719,placement-demo-worker,100m,128Mi,ML Ranker,Created
+2026-10-25T10:43:26.180556+00:00,dashboard-app-104326,placement-demo-worker2,100m,128Mi,ML Ranker,Created
+2026-10-25T10:55:16.087157+00:00,ml-response-test-105516,placement-demo-worker2,100m,128Mi,ML Ranker,Created
+2026-10-26T19:14:47.235281+00:00,dashboard-app-191447,placement-demo-worker,100m,1024Mi,Best Fit,Created
+2026-10-27T08:49:36.503927+00:00,dashboard-app-084936,placement-demo-worker2,100m,128Mi,Best Fit,Created
+2026-10-27T10:08:49.010925+00:00,dashboard-app-100849,placement-demo-worker2,1000m,1024Mi,Best Fit,Created
